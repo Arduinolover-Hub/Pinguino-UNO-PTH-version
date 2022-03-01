@@ -1,2 +1,2 @@
-# Pinguino-UNO-PTH-version
+# Pinguino UNO PTH Version
 Pinguino UNO PTH version
